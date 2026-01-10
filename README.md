@@ -1,28 +1,101 @@
-<h1 align="center">Hi 👋, I'm Mohan Paudel</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hackermohan12&label=Profile%20views&color=0e75b6&style=flat" alt="hackermohan12" /> </p>
+<div align="center">
+  
+# 👨‍💻 Mohan Paudel
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackermohan12" alt="hackermohan12" /></a> </p>
+### Full Stack Developer | React Enthusiast | Problem Solver
 
-- 🔭 I’m currently working on [ipl-project-](https://github.com/hackermohan12/ipl-project-)
+[![Portfolio](https://img.shields.io/badge/Portfolio-paudelmohan.com.np-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://paudelmohan.com.np)
+[![Email](https://img.shields.io/badge/Email-paudelmohan761@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paudelmohan761@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=hackermohan12&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/hackermohan12)
 
-- 🌱 I’m currently learning **React ,**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://paudelmohan.com.np](https://paudelmohan.com.np)
+---
 
-- 📫 How to reach me **paudelmohan761@gmail.com**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohan-paudel-12282533b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohan-paudel-12282533b/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/paudelmohan27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/paudelmohan27" height="30" width="40" /></a>
-<a href="https://instagram.com/paudel__mohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paudel__mohan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/paudelmohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="paudelmohan" height="30" width="40" /></a>
-</p>
+```javascript
+const mohan = {
+    location: "Gaindakot, Nepal 🇳🇵",
+    currentFocus: "Building scalable web applications with React",
+    currentProject: "IPL Analytics Dashboard",
+    learning: ["React", "Advanced JavaScript", "Full Stack Development"],
+    askMeAbout: ["Web Dev", "JavaScript", "React", "Python"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🔭 Current Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackermohan12&show_icons=true&locale=en&layout=compact" alt="hackermohan12" /></p>
+🏏 **[IPL Project](https://github.com/hackermohan12/ipl-project-)** - Interactive cricket analytics platform
+- Building data visualization dashboards
+- Implementing real-time statistics
+- Learning React patterns and best practices
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackermohan12&show_icons=true&locale=en" alt="hackermohan12" /></p>
+## 💻 Tech Stack
 
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hackermohan12&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackermohan12&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackermohan12&theme=radical" alt="GitHub Streak"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hackermohan12&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackermohan12&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-paudel-12282533b/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/paudelmohan27)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paudel__mohan)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/paudelmohan)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+
+</div>
