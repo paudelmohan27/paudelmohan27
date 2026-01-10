@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | React Enthusiast | Problem Solver
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-paudelmohan.com.np-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://paudelmohan.com.np)
+[![Portfolio](https://img.shields.io/badge/Portfolio-paudelmohan.com.np-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.paudelmohan.com.np)
 [![Email](https://img.shields.io/badge/Email-paudelmohan761@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paudelmohan761@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=hackermohan12&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/hackermohan12)
 
@@ -27,7 +27,7 @@ const mohan = {
 
 ## 🔭 Current Projects
 
-🏏 **[IPL Project](https://github.com/hackermohan12/ipl-project-)** - Interactive cricket analytics platform
+🏏 **[IPL Project](https://mohanpaudel761.com.np/)** - Interactive cricket analytics platform
 - Building data visualization dashboards
 - Implementing real-time statistics
 - Learning React patterns and best practices
