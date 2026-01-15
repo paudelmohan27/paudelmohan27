@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-paudelmohan.com.np-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.paudelmohan.com.np)
 [![Email](https://img.shields.io/badge/Email-paudelmohan761@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paudelmohan761@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=hackermohan12&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/hackermohan12)
+[![Profile Views](https://komarev.com/ghpvc/?username=hackermohan12&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/paudelmohan27)
 
 </div>
 
@@ -57,24 +57,24 @@ const mohan = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hackermohan12&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackermohan12&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paudelmohan27&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paudelmohan27&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackermohan12&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paudelmohan27&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hackermohan12&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=paudelmohan27&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackermohan12&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paudelmohan27&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ## 🤝 Connect With Me
