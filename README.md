@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-paudelmohan.com.np-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.paudelmohan.com.np)
 [![Email](https://img.shields.io/badge/Email-paudelmohan761@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paudelmohan761@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=hackermohan12&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/paudelmohan27)
+[![Profile Views](https://komarev.com/ghpvc/?username=paudelmohan27&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/paudelmohan27)
 
 </div>
 
@@ -81,7 +81,7 @@ const mohan = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-paudel-12282533b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/paudelmohan27)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/paudelmohan27)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paudel__mohan)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/paudelmohan)
