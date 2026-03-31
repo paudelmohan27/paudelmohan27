@@ -1,101 +1,84 @@
 <div align="center">
-  
-# 👨‍💻 Mohan Paudel
 
-### Full Stack Developer | React Enthusiast | Problem Solver
+# Mohan Paudel
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-paudelmohan.com.np-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.paudelmohan.com.np)
-[![Email](https://img.shields.io/badge/Email-paudelmohan761@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paudelmohan761@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=paudelmohan27&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/paudelmohan27)
+**Computer Engineering Student · Frontend Developer · Competitive Programmer**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-paudelmohan.com.np-0ea5e9?style=flat-square&logo=google-chrome&logoColor=white)](https://paudelmohan.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-paudelmohan27-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/paudelmohan27)
+[![Email](https://img.shields.io/badge/Email-paudelmohan761@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:paudelmohan761@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@paudelmohan-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@paudelmohan)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-```javascript
-const mohan = {
-    location: "Gaindakot, Nepal 🇳🇵",
-    currentFocus: "Building scalable web applications with React",
-    currentProject: "IPL Analytics Dashboard",
-    learning: ["React", "Advanced JavaScript", "Full Stack Development"],
-    askMeAbout: ["Web Dev", "JavaScript", "React", "Python"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+I'm a Computer Engineering student at **Advanced College of Engineering & Management (ACEM), Tribhuvan University**, Nepal. I build things for the web — from polished frontends to interactive applications — and compete in programming contests.
 
-## 🔭 Current Projects
+- 🏆 **Competitive Programming & Hackathon Champion** — Prerana Tech Fest
+- 🌐 Currently building **[StudyTracker](https://tracker.paudelmohan.com.np)** — StudyTracker For Students
+- 💼 Available for **freelance web development** work
+- 📍 Based in Nepal (UTC +05:45)
 
-🏏 **[IPL Project](https://mohanpaudel761.com.np/)** - Interactive cricket analytics platform
-- Building data visualization dashboards
-- Implementing real-time statistics
-- Learning React patterns and best practices
+---
 
-## 💻 Tech Stack
+## Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+---
+
+## Projects
+ 
+| Project | Description | Stack |
+|---|---|---|
+| [CricVerse](https://github.com/paudelmohan27/ipl-project-) | Live cricket analytics platform — team stats, points table, live scores via Cricbuzz API. Live at [mohanpaudel761.com.np](https://mohanpaudel761.com.np) | HTML · CSS · JS · GitHub Actions |
+| [StudyTracker](https://github.com/paudelmohan27) | Full-stack exam prep tracker — subject/topic management, Pomodoro timer, visual analytics, JWT auth | React · Node.js · Express · MongoDB · Tailwind |
+| [Educational Resources](https://github.com/paudelmohan27) | Educational landing page covering literature, grammar, chemistry topics, and quizzes | HTML · CSS · JS |
+| [Personal Website](https://github.com/paudelmohan27/Personal-website) | Personal portfolio site deployed at [paudelmohan.com.np](https://paudelmohan.com.np) | HTML · CSS |
+| [Calculator](https://github.com/paudelmohan27/Calculator) | Browser-based calculator app | HTML · CSS · JS |
+ 
+---
+## GitHub Stats
 
 <div align="center">
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paudelmohan27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paudelmohan27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paudelmohan27&theme=tokyonight&hide_border=true)
 
 </div>
 
-## 📊 GitHub Statistics
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paudelmohan27&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paudelmohan27&layout=compact&langs_count=8&theme=radical"/>
-</div>
+## Connect
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paudelmohan27&theme=radical" alt="GitHub Streak"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paudelmohan27&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paudelmohan27&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/paudelmohan27)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/paudelmohan27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paudelmohan27)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paudel__mohan)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/paudelmohan)
-
-</div>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/paudelmohan27)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@paudelmohan)
 
 ---
 
 <div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-**Thanks for visiting! Let's connect and build something amazing together! 🚀**
-
+<sub>Open to freelance projects · Let's build something worth shipping.</sub>
 </div>
