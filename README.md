@@ -123,20 +123,17 @@ const mohan = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paudelmohan27&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paudelmohan27&layout=compact&theme=gruvbox&hide_border=true" alt="top langs"/>
+  <img width="100%" src="./profile-summary-card-output/gruvbox/0-profile-details.svg" alt="profile details"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=paudelmohan27&theme=gruvbox&hide_border=true" alt="streak"/>
+  <img width="49%" src="./profile-summary-card-output/gruvbox/3-stats.svg" alt="stats"/>
+  <img width="49%" src="./profile-summary-card-output/gruvbox/1-repos-per-language.svg" alt="repos per language"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paudelmohan27&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&row=1" alt="trophies"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=paudelmohan27&theme=gruvbox&hide_border=true&area=true&bg_color=00000000" alt="activity graph"/>
+  <img width="49%" src="./profile-summary-card-output/gruvbox/2-most-commit-language.svg" alt="most commit language"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=paudelmohan27&theme=gruvbox&hide_border=true" alt="streak"/>
 </p>
 
 <!-- ===================== SNAKE ===================== -->
